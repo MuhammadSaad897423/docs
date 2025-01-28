@@ -2266,3 +2266,4 @@ pipeline:
 ```
 
 To learn more about running Dusk tests on Chipper CI, including how to use databases, consult the [official Chipper CI documentation](https://chipperci.com/docs/testing/laravel-dusk-new/).
+    - [Resetting the Database After Each Test](#resetting-the-database-after-each-test.updated]
